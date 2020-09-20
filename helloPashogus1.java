@@ -3,7 +3,7 @@
 class helloPashogus {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        Strin check ="hello Pashogus1 ";	
+        String check ="hello Pashogus1 ";	
         System.out.println(check1);		
     }
 }
